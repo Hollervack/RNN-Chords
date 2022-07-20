@@ -10,19 +10,19 @@ Y ¿para qué vamos a elaborar una red neuronal recurrente? ¡Para elaborar acor
 
 Para entender un poco todo el entresijo de carpetas y archivos que tenemos aquí leed la estructura:
 
-> data: Esta es la carpeta donde se alojan los archivos *.midi* que vamos a trabajar.
+> **data**: Esta es la carpeta donde se alojan los archivos *.midi* que vamos a trabajar.
 
-> models: En esta carpeta guardaremos los modelos así como información que estos nos ofrezcan.
+> **models**: En esta carpeta guardaremos los modelos así como información que estos nos ofrezcan.
 
-> Jambot (paper).pdf: El artículo en el que basaremos nuestro experimento.
+> **Jambot (paper).pdf**: El artículo en el que basaremos nuestro experimento.
 
-> RNN_Chords.ipynb: Es el *notebook* donde se explica como elaborar y trabajar con la red neuronal recurrente. ¡Este es el archivo que deberemos trabajar!
+> **RNN_Chords.ipynb**: Es el *notebook* donde se explica como elaborar y trabajar con la red neuronal recurrente. ¡Este es el archivo que deberemos trabajar!
 
-> data_processing_functions.py: Es un archivo Python que contiene funciones que emplearemos en el *notebook*. Procede del repositorio que señalan en el artículo.
+> **data_processing_functions.py**: Es un archivo Python que contiene funciones que emplearemos en el *notebook*. Procede del repositorio que señalan en el artículo.
 
-> midi_functions.py: Es un archivo Python que contiene funciones que emplearemos en el *notebook*. Procede del repositorio que señalan en el artículo.
+> **midi_functions.py**: Es un archivo Python que contiene funciones que emplearemos en el *notebook*. Procede del repositorio que señalan en el artículo.
 
-> settings.py: Es un archivo Python que contiene funciones que emplearemos en el *notebook*. Procede del repositorio que señalan en el artículo.
+> **settings.py**: Es un archivo Python que contiene funciones que emplearemos en el *notebook*. Procede del repositorio que señalan en el artículo.
 
 **IMPORTANTE**: Conviene que trabajéis sin modificar nada de la estructura de archivos una vez realicéis la descarga del repositorio. No es que vaya a explotar nada pero si no controláis mucho sobre el manejo de archivos desde Python es mejor limitarse a reproducir el *notebook* para entender que ocurre.
 
