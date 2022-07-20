@@ -1,5 +1,6 @@
 # RNN-Chords
 ES: Ejemplo de una red neuronal recurrente para la generación de acordes musicales
+
 EN: Example of recurrent neural network for musical chord generation.
 
 **Español:**
